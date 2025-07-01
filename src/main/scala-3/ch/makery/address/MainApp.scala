@@ -68,3 +68,4 @@ object MainApp extends JFXApp3:
     println("aString changed from " + b + " to " + c)
   } )
   println(add(1,2))
+
